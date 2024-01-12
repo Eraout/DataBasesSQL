@@ -1,7 +1,7 @@
 package org.example;
 
 public class settings {
-    public static String url = "jdbc:mysql://localhost:3306/public";
-    public static String username = "root";
-    public static String password = "Hjh-7878-hjh";
+    public static String url = "your url";
+    public static String username = "username";
+    public static String password = "password";
 }
